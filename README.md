@@ -2,7 +2,7 @@
 My name is Fabian and I am currently a second year Computer Science student at Institut Teknologi Bandung. I'm currently very passionate about learning web development.
 
 
-### Contact Me
+### :calling: Contact Me
 - [Linkedin](https://www.linkedin.com/in/fabian-savero-diaz-pranoto-102a72192/)
 - [Instagram](https://instagram.com/fab_sdp/)
 
@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Fabian's Github Stats](https://github-readme-stats.vercel.app/api?username=fabiansdp&show_icons=true&theme=radical)
