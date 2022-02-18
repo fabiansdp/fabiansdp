@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fabian and I am currently a second year Computer Science student at Institut Teknologi Bandung. I'm currently very passionate about learning web development.
+My name is Fabian and I am currently a third year Computer Science student at Institut Teknologi Bandung. I'm currently very passionate about learning web development.
 
 - 🌱 I’m currently learning Golang!
 
